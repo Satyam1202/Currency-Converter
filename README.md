@@ -7,7 +7,7 @@ The Currency Converter is a web application designed to help users convert betwe
 * JavaScript: Utilized for fetching data from external APIs, handling user interactions, and dynamically updating the UI.
 * Fetch API: Used to make asynchronous requests to fetch exchange rate data from an external API
 
-#API
-[https://2024-03-06.currency-api.pages.dev/v1/currencies/${currency}.json]
+# API
+ https://2024-03-06.currency-api.pages.dev/v1/currencies/${currency}.json
 
 
